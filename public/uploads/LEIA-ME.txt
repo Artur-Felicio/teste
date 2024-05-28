@@ -1,0 +1,5 @@
+Este repositório é destinado à entrega dos artefatos da Sprint #04:
+	> Apresentação do seminário - Arquivo .ppt
+	> Vídeo
+	> Documentação do sistema
+	> Link do GitHub
